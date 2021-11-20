@@ -8,3 +8,4 @@
 
 [点./wp/README.md查看答案。](./wp/README.md)
 
+这里还有一个有趣的生日悖论体验器，走过路过不要错过。[https://datamuse.guokr.com/web?page=bpp](https://datamuse.guokr.com/web?page=bpp)
