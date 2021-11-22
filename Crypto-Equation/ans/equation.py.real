@@ -1,0 +1,104 @@
+import random
+import libnum
+from Crypto.Util import number
+from gmpy2 import gcd
+from secret import flag
+
+assert len(flag) == 43
+flag = [flag[(43//3)*i:(43//3)*(i+1)] for i in range(3)]
+
+print('--- Part. 0 ---')
+x0 = libnum.s2n(flag[0][:len(flag[0])//2])
+y0 = libnum.s2n(flag[0][len(flag[0])//2:])
+print('Hint: %d' % gcd(x0, y0))
+l0 = len(bin(y0))-2
+'''
+while True:
+    a0 = random.randint(2, 2**(l0*3))
+    b0 = random.randint(2, 2**(l0*3))
+    if a0*x0 == b0*y0:
+        break
+# 2000 years later ...
+'''
+# 0.
+r0 = random.randint(2, 2**(l0*2))
+a0 = y0*r0
+b0 = x0*r0
+assert a0*x0 == b0*y0
+
+def lcm(a, b):
+    return (a*b)//gcd(a, b)
+nn = lcm(a0, b0)
+x0_ = nn//a0
+y0_ = nn//b0
+assert a0*x0_ == b0*y0_
+#print('Debug -> %d %d %d' % (l0*3, len(bin(a0))-2, len(bin(b0))-2))
+# .0
+print('a0 = %d' % a0)
+print('b0 = %d' % b0)
+
+print('--- Part. 1 ---')
+x1 = libnum.s2n(flag[1][:len(flag[1])//2])
+y1 = libnum.s2n(flag[1][len(flag[1])//2:])
+print('Hint: %d' % gcd(x1, y1))
+l1 = len(bin(y1))-2
+'''
+while True:
+    a1 = random.randint(2, 2**(l1*3))
+    b1 = random.randint(2, 2**(l1*3))
+    if a1*x1 - b1*y1 == 1:
+        break
+# 2000 years later ...
+'''
+# 1.
+from egcd import egcd
+while True:
+    ra = random.randint(2, 2**(l1+1))
+    rb = random.randint(2, 2**(l1+1))
+    #if gcd(ra*x1, rb*y1) == 1:
+    #    break
+    _, a1, b1 = egcd(ra*x1, rb*y1)
+    a1 = abs(a1*ra)
+    b1 = abs(b1*rb)
+    if a1*x1 - b1*y1 == 1:
+        break
+assert a1*x1 - b1*y1 == 1
+
+# Maybe probabilistic
+_, x1_, y1_ = egcd(a1, b1)
+x1_ = abs(x1_)
+y1_ = abs(y1_)
+assert a1*x1_ - b1*y1_ == 1
+#print('Debug -> %d %d %d' % (l1*3, len(bin(a1))-2, len(bin(b1))-2))
+# .1
+print('a1 = %d' % a1)
+print('b1 = %d' % b1)
+
+print('--- Part. 2 ---')
+x2 = libnum.s2n(flag[2][:len(flag[2])//2])
+y2 = libnum.s2n(flag[2][len(flag[2])//2:])
+print('Hint: %s' % 'nicai')
+l2 = len(bin(y2))-2
+'''
+while True:
+    a2 = random.randint(2, 2**(l2*3))
+    b2 = random.randint(2, 2**(l2*3))
+    if a2*x2 - b2*y2 <= y2:
+        break
+# 2000 years later ...
+'''
+# 2. 
+b2 = random.randint(2, 2**(l2*3))
+r2 = (b2*y2)%x2
+a2 = (b2*y2+r2) // x2
+assert a2*x2 - b2*y2 <= y2
+#print('Debug -> %d %d %d' % (l2*3, len(bin(a2))-2, len(bin(b2))-2))
+# .2
+print('a2 = %d' % a2)
+print('b2 = %d' % b2)
+
+
+
+# TODO: assert size a and b
+
+
