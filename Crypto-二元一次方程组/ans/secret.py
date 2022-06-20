@@ -1,0 +1,1 @@
+flag = 'hsctf{Dl3F4TH3rRR4iin_AvAvA}'
