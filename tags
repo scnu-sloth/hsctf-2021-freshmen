@@ -1,0 +1,988 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/f42b573/
+'java.lang'	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="'java.lang'"><\/a>$/;"	a
+'org.python'	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="'org.python'"><\/a>$/;"	a
+2^11	Reverse-2^11/README.md	/^# 2^11$/;"	c
+AstarEstarS	Reverse-AstarEstarS/README.md	/^# AstarEstarS$/;"	c
+AstarEstarS	Reverse-AstarEstarS/coding/rijndael-fst-3.0/Makefile	/^AstarEstarS:	AstarEstarS.o rijndael-api-fst.o rijndael-alg-fst.o$/;"	t
+B45364	Misc-B45364/README.md	/^# B45364$/;"	c
+BAD_BLOCK_LENGTH	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^#define     BAD_BLOCK_LENGTH /;"	d
+BAD_CIPHER_INSTANCE	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^#define     BAD_CIPHER_INSTANCE /;"	d
+BAD_CIPHER_MODE	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^#define     BAD_CIPHER_MODE /;"	d
+BAD_CIPHER_STATE	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^#define     BAD_CIPHER_STATE /;"	d
+BAD_DATA	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^#define     BAD_DATA /;"	d
+BAD_KEY_DIR	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^#define     BAD_KEY_DIR /;"	d
+BAD_KEY_INSTANCE	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^#define     BAD_KEY_INSTANCE /;"	d
+BAD_KEY_MAT	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^#define     BAD_KEY_MAT /;"	d
+BAD_OTHER	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^#define     BAD_OTHER /;"	d
+BITSPERBLOCK	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^#define     BITSPERBLOCK /;"	d
+BYTE	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^typedef unsigned char   BYTE;$/;"	t	typeref:typename:unsigned char
+BabyDiff	Crypto-BabyDiff/README.md	/^## BabyDiff$/;"	s
+CFLAGS	Reverse-AstarEstarS/coding/rijndael-fst-3.0/Makefile	/^CFLAGS=-Wall -O2 -DTRACE_KAT_MCT -DINTERMEDIATE_VALUE_KAT$/;"	m
+CTOCEntry	Reverse-FMC_py/answer/pyinstxtractor.py	/^class CTOCEntry:$/;"	c
+CipherSequence	Reverse-FMC_py/answer/FMC.py	/^    CipherSequence = '.....-..x.-..--.-x.x..x-.xx-..-.--.x--.-----x-x.-x--xxx..x.-x.xx-.x--x-xxx/;"	v	class:FMC
+CipherSequence	Reverse-FMC_py/answer/exp.py	/^    CipherSequence = '.....-..x.-..--.-x.x..x-.xx-..-.--.x--.-----x-x.-x--xxx..x.-x.xx-.x--x-xxx/;"	v	class:FMC
+CipherSequence	Reverse-FMC_py/coding/FMC.py	/^    CipherSequence = '.....-..x.-..--.-x.x..x-.xx-..-.--.x--.-----x-x.-x--xxx..x.-x.xx-.x--x-xxx/;"	v	class:FMC
+DIR_DECRYPT	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^#define     DIR_DECRYPT /;"	d
+DIR_ENCRYPT	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^#define     DIR_ENCRYPT /;"	d
+DTMF_TABLE	Misc-phone_call/ans/gen.py	/^    DTMF_TABLE = {$/;"	v	class:DtmfGenerator
+DiffGame	Crypto-BabyDiff/problem/game.py	/^class DiffGame:$/;"	c
+DiffGame	Crypto-BabyDiff/wp/game.py	/^class DiffGame:$/;"	c
+DtmfGenerator	Misc-phone_call/ans/gen.py	/^class DtmfGenerator:$/;"	c
+FALSE	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^#define     FALSE /;"	d
+FMC	Reverse-FMC_py/answer/FMC.py	/^class FMC(object):$/;"	c
+FMC	Reverse-FMC_py/answer/exp.py	/^class FMC(object):$/;"	c
+FMC	Reverse-FMC_py/coding/FMC.py	/^class FMC(object):$/;"	c
+FMC.py	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="FMC.py"><\/a>$/;"	a
+FMCDecrypt	Reverse-FMC_py/answer/exp.py	/^    def FMCDecrypt(self, emsg: str, keyphrase: str = "") -> str:$/;"	m	class:FMC
+FMCEncrypt	Reverse-FMC_py/answer/FMC.py	/^    def FMCEncrypt--- This code section failed: ---$/;"	m	class:FMC
+FMCEncrypt	Reverse-FMC_py/coding/FMC.py	/^    def FMCEncrypt(self, src: str, keyphrase: str = "") -> str:$/;"	m	class:FMC
+FMC_py	Reverse-FMC_py/README.md	/^# FMC_py$/;"	c
+Fighting	Reverse-Fighting/README.md	/^# Fighting$/;"	c
+GETU32	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-alg-fst.c	/^#define GETU32(/;"	d	file:
+HSCTF 2021 新生赛 代码仓库	README.md	/^# HSCTF 2021 新生赛 代码仓库$/;"	c
+ITERATIONS	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-test-fst.c	/^#define ITERATIONS /;"	d	file:
+IV	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^    BYTE  IV[MAX_IV_SIZE];          \/* A possible Initialization Vector for ciphering *\/$/;"	m	struct:__anon2bb9e0dd0208	typeref:typename:BYTE[]
+MAGIC	Reverse-FMC_py/answer/pyinstxtractor.py	/^    MAGIC = b'MEI\\014\\013\\012\\013\\016'  # Magic number which identifies pyinstaller$/;"	v	class:PyInstArchive
+MAXKB	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-alg-fst.h	/^#define MAXKB	/;"	d
+MAXKC	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-alg-fst.h	/^#define MAXKC	/;"	d
+MAXNR	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-alg-fst.h	/^#define MAXNR	/;"	d
+MAX_IV_SIZE	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^#define     MAX_IV_SIZE /;"	d
+MAX_KEY_SIZE	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^#define     MAX_KEY_SIZE /;"	d
+MODE_CBC	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^#define     MODE_CBC /;"	d
+MODE_CFB1	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^#define     MODE_CFB1 /;"	d
+MODE_ECB	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^#define     MODE_ECB /;"	d
+MorseCode	Reverse-FMC_py/answer/FMC.py	/^    MorseCode = {'!':'-.-.--',  '"':'.-..-.',  "'":'.----.',  '(':'-.--.',  ')':'-.--.-', $/;"	v	class:FMC
+MorseCode	Reverse-FMC_py/answer/exp.py	/^    MorseCode = { "!": "-.-.--", '"': ".-..-.", "'": ".----.", "(": "-.--.",$/;"	v	class:FMC
+MorseCode	Reverse-FMC_py/coding/FMC.py	/^    MorseCode = { "!": "-.-.--", '"': ".-..-.", "'": ".----.", "(": "-.--.",$/;"	v	class:FMC
+MyCipher	Crypto-泄露了但没完全泄露/problem/game.py	/^class MyCipher:$/;"	c
+MyHash	Crypto-我的新门锁密码/problem/game.py	/^class MyHash:$/;"	c
+MyHash	Crypto-我的新门锁密码/server/bin/game.py	/^class MyHash:$/;"	c
+MyHash	Crypto-我的新门锁密码/wp/wp.py	/^class MyHash:$/;"	c
+Nr	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^	int   Nr;                       \/* key-length-dependent number of rounds *\/$/;"	m	struct:__anon2bb9e0dd0108	typeref:typename:int
+Other	Web-ezphp/readme.md	/^## Other$/;"	s
+PUTU32	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-alg-fst.c	/^#define PUTU32(/;"	d	file:
+PYINST20_COOKIE_SIZE	Reverse-FMC_py/answer/pyinstxtractor.py	/^    PYINST20_COOKIE_SIZE = 24           # For pyinstaller 2.0$/;"	v	class:PyInstArchive
+PYINST21_COOKIE_SIZE	Reverse-FMC_py/answer/pyinstxtractor.py	/^    PYINST21_COOKIE_SIZE = 24 + 64      # For pyinstaller 2.1+$/;"	v	class:PyInstArchive
+Payload	Web-ezphp/readme.md	/^## Payload$/;"	s
+PyInstArchive	Reverse-FMC_py/answer/pyinstxtractor.py	/^class PyInstArchive:$/;"	c
+SECRET	Reverse-opensoooooource/answer/test.py	/^SECRET = 'tover'$/;"	v
+SECRET	Reverse-opensoooooource/opensoooooource.py	/^SECRET = 'tover'$/;"	v
+SUBMITTER	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-test-fst.c	/^#define SUBMITTER /;"	d	file:
+SWAP	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-alg-fst.c	/^#define SWAP(/;"	d	file:
+SignIn	Misc-SignIn/README.md	/^# SignIn$/;"	c
+Splashes!!!	Reverse-Splashes!!!/README.md	/^# Splashes!!!$/;"	c
+TRUE	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^#define     TRUE /;"	d
+Td0	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-alg-fst.c	/^static const u32 Td0[256] = {$/;"	v	typeref:typename:const u32[256]	file:
+Td1	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-alg-fst.c	/^static const u32 Td1[256] = {$/;"	v	typeref:typename:const u32[256]	file:
+Td2	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-alg-fst.c	/^static const u32 Td2[256] = {$/;"	v	typeref:typename:const u32[256]	file:
+Td3	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-alg-fst.c	/^static const u32 Td3[256] = {$/;"	v	typeref:typename:const u32[256]	file:
+Td4	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-alg-fst.c	/^static const u32 Td4[256] = {$/;"	v	typeref:typename:const u32[256]	file:
+Te0	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-alg-fst.c	/^static const u32 Te0[256] = {$/;"	v	typeref:typename:const u32[256]	file:
+Te1	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-alg-fst.c	/^static const u32 Te1[256] = {$/;"	v	typeref:typename:const u32[256]	file:
+Te2	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-alg-fst.c	/^static const u32 Te2[256] = {$/;"	v	typeref:typename:const u32[256]	file:
+Te3	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-alg-fst.c	/^static const u32 Te3[256] = {$/;"	v	typeref:typename:const u32[256]	file:
+Te4	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-alg-fst.c	/^static const u32 Te4[256] = {$/;"	v	typeref:typename:const u32[256]	file:
+__RIJNDAEL_ALG_FST_H	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-alg-fst.h	/^#define __RIJNDAEL_ALG_FST_H$/;"	d
+__RIJNDAEL_API_FST_H	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^#define __RIJNDAEL_API_FST_H$/;"	d
+__anon1279b2bb0108	Reverse-AstarEstarS/coding/rijndael-fst-3.0/AstarEstarS.c	/^typedef struct {$/;"	s	file:
+__anon2bb9e0dd0108	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^typedef struct {$/;"	s
+__anon2bb9e0dd0208	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^typedef struct {                    \/* changed order of the components *\/$/;"	s
+__dtmf_function	Misc-phone_call/ans/gen.py	/^    def __dtmf_function($/;"	m	class:DtmfGenerator	file:
+__future__	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="__future__"><\/a>$/;"	a
+__init__	Crypto-BabyDiff/problem/game.py	/^    def __init__(self, key):$/;"	m	class:DiffGame
+__init__	Crypto-BabyDiff/wp/game.py	/^    def __init__(self, key):$/;"	m	class:DiffGame
+__init__	Crypto-我的新门锁密码/problem/game.py	/^    def __init__(self):$/;"	m	class:MyHash
+__init__	Crypto-我的新门锁密码/server/bin/game.py	/^    def __init__(self):$/;"	m	class:MyHash
+__init__	Crypto-我的新门锁密码/wp/wp.py	/^    def __init__(self):$/;"	m	class:MyHash
+__init__	Crypto-泄露了但没完全泄露/problem/game.py	/^    def __init__(self, aes_key):$/;"	m	class:MyCipher
+__init__	Misc-phone_call/ans/gen.py	/^    def __init__($/;"	m	class:DtmfGenerator
+__init__	Reverse-FMC_py/answer/pyinstxtractor.py	/^    def __init__(self, path):$/;"	m	class:PyInstArchive
+__init__	Reverse-FMC_py/answer/pyinstxtractor.py	/^    def __init__(self, position, cmprsdDataSize, uncmprsdDataSize, cmprsFlag, typeCmprsData, nam/;"	m	class:CTOCEntry
+_abc	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_abc"><\/a>$/;"	a
+_ast	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_ast"><\/a>$/;"	a
+_asyncio	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_asyncio"><\/a>$/;"	a
+_bisect	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_bisect"><\/a>$/;"	a
+_blake2	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_blake2"><\/a>$/;"	a
+_bootlocale	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_bootlocale"><\/a>$/;"	a
+_bz2	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_bz2"><\/a>$/;"	a
+_codecs	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_codecs"><\/a>$/;"	a
+_codecs_cn	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_codecs_cn"><\/a>$/;"	a
+_codecs_hk	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_codecs_hk"><\/a>$/;"	a
+_codecs_iso2022	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_codecs_iso2022"><\/a>$/;"	a
+_codecs_jp	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_codecs_jp"><\/a>$/;"	a
+_codecs_kr	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_codecs_kr"><\/a>$/;"	a
+_codecs_tw	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_codecs_tw"><\/a>$/;"	a
+_collections	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_collections"><\/a>$/;"	a
+_collections_abc	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_collections_abc"><\/a>$/;"	a
+_compat_pickle	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_compat_pickle"><\/a>$/;"	a
+_compression	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_compression"><\/a>$/;"	a
+_contextvars	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_contextvars"><\/a>$/;"	a
+_csv	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_csv"><\/a>$/;"	a
+_ctypes	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_ctypes"><\/a>$/;"	a
+_datetime	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_datetime"><\/a>$/;"	a
+_decimal	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_decimal"><\/a>$/;"	a
+_elementtree	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_elementtree"><\/a>$/;"	a
+_extractPyz	Reverse-FMC_py/answer/pyinstxtractor.py	/^    def _extractPyz(self, name):$/;"	m	class:PyInstArchive
+_frozen_importlib	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_frozen_importlib"><\/a>$/;"	a
+_frozen_importlib_external	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_frozen_importlib_external"><\/a>$/;"	a
+_functools	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_functools"><\/a>$/;"	a
+_hashlib	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_hashlib"><\/a>$/;"	a
+_heapq	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_heapq"><\/a>$/;"	a
+_imp	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_imp"><\/a>$/;"	a
+_io	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_io"><\/a>$/;"	a
+_locale	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_locale"><\/a>$/;"	a
+_lzma	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_lzma"><\/a>$/;"	a
+_md5	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_md5"><\/a>$/;"	a
+_multibytecodec	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_multibytecodec"><\/a>$/;"	a
+_multiprocessing	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_multiprocessing"><\/a>$/;"	a
+_opcode	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_opcode"><\/a>$/;"	a
+_operator	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_operator"><\/a>$/;"	a
+_osx_support	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_osx_support"><\/a>$/;"	a
+_overlapped	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_overlapped"><\/a>$/;"	a
+_pickle	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_pickle"><\/a>$/;"	a
+_posixshmem	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_posixshmem"><\/a>$/;"	a
+_posixsubprocess	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_posixsubprocess"><\/a>$/;"	a
+_py_abc	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_py_abc"><\/a>$/;"	a
+_pydecimal	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_pydecimal"><\/a>$/;"	a
+_queue	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_queue"><\/a>$/;"	a
+_random	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_random"><\/a>$/;"	a
+_scproxy	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_scproxy"><\/a>$/;"	a
+_sha1	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_sha1"><\/a>$/;"	a
+_sha256	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_sha256"><\/a>$/;"	a
+_sha3	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_sha3"><\/a>$/;"	a
+_sha512	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_sha512"><\/a>$/;"	a
+_signal	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_signal"><\/a>$/;"	a
+_socket	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_socket"><\/a>$/;"	a
+_sre	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_sre"><\/a>$/;"	a
+_ssl	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_ssl"><\/a>$/;"	a
+_stat	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_stat"><\/a>$/;"	a
+_string	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_string"><\/a>$/;"	a
+_strptime	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_strptime"><\/a>$/;"	a
+_struct	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_struct"><\/a>$/;"	a
+_thread	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_thread"><\/a>$/;"	a
+_threading_local	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_threading_local"><\/a>$/;"	a
+_tracemalloc	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_tracemalloc"><\/a>$/;"	a
+_warnings	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_warnings"><\/a>$/;"	a
+_weakref	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_weakref"><\/a>$/;"	a
+_weakrefset	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_weakrefset"><\/a>$/;"	a
+_winapi	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_winapi"><\/a>$/;"	a
+_winreg	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="_winreg"><\/a>$/;"	a
+a0	Crypto-Equation/release/equation.py	/^    a0 = random.randint(2, 2**(l0*3))$/;"	v
+a1	Crypto-Equation/release/equation.py	/^    a1 = random.randint(2, 2**(l1*3))$/;"	v
+a2	Crypto-Equation/release/equation.py	/^    a2 = random.randint(2, 2**(l2*3))$/;"	v
+abc	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="abc"><\/a>$/;"	a
+aes	Reverse-opensoooooource/answer/test.py	/^aes = AES.new((SECRET * 4)[:16].encode(), AES.MODE_ECB)$/;"	v
+aes_key	Crypto-泄露了但没完全泄露/wp/secret.py	/^aes_key = '1234567812345678'$/;"	v
+air	Reverse-2^11/coding/2^11.c	/^int m[36] = { 0 }, score = 0, can = 0, air = 16, c = 0, i = 6, j, *p;$/;"	v	typeref:typename:int[36]
+argparse	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="argparse"><\/a>$/;"	a
+arr	Reverse-2^11/answer/exp.py	/^arr = [0x2E, 0x58, 0x17, 0x02, 0x24, 0x23, 0x44, 0x0A, 0x6C, 0x04, 0x65, 0x36, 0x1A, 0x10, 0x26,/;"	v
+arr	Reverse-2^11/coding/test.py	/^arr = []$/;"	v
+arr	Reverse-AstarEstarS/answer/exp.py	/^arr = [32, 7, 71, 22, 45, 61, 28, 41, 4, 45, 63, 10, 15, 58, 43, 27]$/;"	v
+arr	Reverse-AstarEstarS/coding/test.py	/^arr = []$/;"	v
+arr	Reverse-opensoooooource/answer/test.py	/^arr = [ttt, ooo, vvv, eee, rrr]$/;"	v
+array	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="array"><\/a>$/;"	a
+ast	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="ast"><\/a>$/;"	a
+asyncio	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="asyncio"><\/a>$/;"	a
+asyncio.DefaultEventLoopPolicy	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="asyncio.DefaultEventLoopPolicy"><\/a>$/;"	a
+asyncio.base_events	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="asyncio.base_events"><\/a>$/;"	a
+asyncio.base_futures	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="asyncio.base_futures"><\/a>$/;"	a
+asyncio.base_subprocess	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="asyncio.base_subprocess"><\/a>$/;"	a
+asyncio.base_tasks	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="asyncio.base_tasks"><\/a>$/;"	a
+asyncio.constants	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="asyncio.constants"><\/a>$/;"	a
+asyncio.coroutines	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="asyncio.coroutines"><\/a>$/;"	a
+asyncio.events	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="asyncio.events"><\/a>$/;"	a
+asyncio.exceptions	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="asyncio.exceptions"><\/a>$/;"	a
+asyncio.format_helpers	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="asyncio.format_helpers"><\/a>$/;"	a
+asyncio.futures	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="asyncio.futures"><\/a>$/;"	a
+asyncio.locks	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="asyncio.locks"><\/a>$/;"	a
+asyncio.log	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="asyncio.log"><\/a>$/;"	a
+asyncio.proactor_events	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="asyncio.proactor_events"><\/a>$/;"	a
+asyncio.protocols	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="asyncio.protocols"><\/a>$/;"	a
+asyncio.queues	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="asyncio.queues"><\/a>$/;"	a
+asyncio.runners	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="asyncio.runners"><\/a>$/;"	a
+asyncio.selector_events	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="asyncio.selector_events"><\/a>$/;"	a
+asyncio.sslproto	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="asyncio.sslproto"><\/a>$/;"	a
+asyncio.staggered	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="asyncio.staggered"><\/a>$/;"	a
+asyncio.streams	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="asyncio.streams"><\/a>$/;"	a
+asyncio.subprocess	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="asyncio.subprocess"><\/a>$/;"	a
+asyncio.tasks	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="asyncio.tasks"><\/a>$/;"	a
+asyncio.transports	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="asyncio.transports"><\/a>$/;"	a
+asyncio.trsock	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="asyncio.trsock"><\/a>$/;"	a
+asyncio.unix_events	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="asyncio.unix_events"><\/a>$/;"	a
+asyncio.windows_events	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="asyncio.windows_events"><\/a>$/;"	a
+asyncio.windows_utils	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="asyncio.windows_utils"><\/a>$/;"	a
+atexit	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="atexit"><\/a>$/;"	a
+b0	Crypto-Equation/release/equation.py	/^    b0 = random.randint(2, 2**(l0*3))$/;"	v
+b1	Crypto-Equation/release/equation.py	/^    b1 = random.randint(2, 2**(l1*3))$/;"	v
+b2	Crypto-Equation/release/equation.py	/^    b2 = random.randint(2, 2**(l2*3))$/;"	v
+baigeiXOR	Reverse-baigeiXor/README.md	/^# baigeiXOR$/;"	c
+base64	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="base64"><\/a>$/;"	a
+bdb	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="bdb"><\/a>$/;"	a
+bg	Reverse-2^11/coding/2^11.c	/^int bg[] = {15, 240, 144, 160, 176, 192, 208, 224, 16, 32, 48, 64, 80};$/;"	v	typeref:typename:int[]
+binascii	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="binascii"><\/a>$/;"	a
+bisect	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="bisect"><\/a>$/;"	a
+blockDecrypt	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.c	/^int blockDecrypt(cipherInstance *cipher, keyInstance *key,$/;"	f	typeref:typename:int
+blockEncrypt	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.c	/^int blockEncrypt(cipherInstance *cipher, keyInstance *key,$/;"	f	typeref:typename:int
+blockPrint	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-test-fst.c	/^static void blockPrint(FILE *fp, const BYTE *block, const char *tag) {$/;"	f	typeref:typename:void	file:
+builtins	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="builtins"><\/a>$/;"	a
+bz2	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="bz2"><\/a>$/;"	a
+c	Crypto-babyECC2/ans/get.py	/^c = 'ac73a774a25bd512d543dc468542c9428141800dd041d043c918d112850dd515d6128214d1138211d71599'$/;"	v
+c	Crypto-babyECC2/ans/get.py	/^c = bytes.fromhex(c)$/;"	v
+c	Crypto-babyFibo/ans/get.py	/^c = 43104378128345818181217961835377190975779804452524643191544804229536124095677294719566215359/;"	v
+c	Crypto-babyFibo/release/fibo.py	/^c = m^s$/;"	v
+c	Crypto-baigeiRSA/ans/get.py	/^c = 40876621398366534035989065383910105526025410999058860023908252093679681817257$/;"	v
+c	Crypto-baigeiRSA/release/baigei.py	/^c = pow(m, e, n)$/;"	v
+c	Crypto-baigeiRSA2/ans/get.py	/^c = 14400922178117235363633998889691091204772626075910884725756601941238208385359873581786993320/;"	v
+c	Crypto-baigeiRSA2/release/baigei2.py	/^c = pow(m, e, n)$/;"	v
+c	Reverse-2^11/coding/2^11.c	/^int m[36] = { 0 }, score = 0, can = 0, air = 16, c = 0, i = 6, j, *p;$/;"	v	typeref:typename:int[36]
+c	Reverse-AstarEstarS/answer/exp.py	/^c = bytes([211, 93, 222, 166, 164, 157, 25, 242, 217, 199, 50, 240, 62, 64, 120, 233, 16, 140, 1/;"	v
+c	Reverse-opensoooooource/answer/Okamoto.py	/^    c = enc(pk, m)$/;"	v
+c	Reverse-opensoooooource/answer/test.py	/^c = enc(pk, m)$/;"	v
+c	Reverse-opensoooooource/answer/test.py	/^c = pycipher.Enigma(settings = ('A', 'A', 'A'), rotors = (1, 2, 3), reflector = 'B', ringstellun/;"	v
+c	Reverse-opensoooooource/answer/test.py	/^c = pycipher.Vigenere(SECRET).encipher(m)$/;"	v
+c	Reverse-opensoooooource/answer/test.py	/^c = v0.value.to_bytes(4, byteorder = 'little') + v1.value.to_bytes(4, byteorder = 'little')$/;"	v
+c	Reverse-祖传Bytecode/answer/exp.py	/^c = "9daaac32d42434ec7427ee43187afde3e5457143377f803b17aeec7c30ee6a89"$/;"	v
+calendar	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="calendar"><\/a>$/;"	a
+can	Reverse-2^11/coding/2^11.c	/^int m[36] = { 0 }, score = 0, can = 0, air = 16, c = 0, i = 6, j, *p;$/;"	v	typeref:typename:int[36]
+check	Reverse-AstarEstarS/coding/rijndael-fst-3.0/AstarEstarS.c	/^int check(char res[48]) {$/;"	f	typeref:typename:int
+check	Reverse-祖传maze/coding/maze.c	/^int check() {$/;"	f	typeref:typename:int
+check0	Reverse-opensoooooource/opensoooooource.py	/^def check0(_arr, _opt):$/;"	f
+checkFile	Reverse-FMC_py/answer/pyinstxtractor.py	/^    def checkFile(self):$/;"	m	class:PyInstArchive
+check_e	Reverse-opensoooooource/opensoooooource.py	/^def check_e(_arg):$/;"	f
+check_function	Reverse-opensoooooource/opensoooooource.py	/^        check_function = eval('check_' + opt[1])$/;"	v
+check_o	Reverse-opensoooooource/opensoooooource.py	/^def check_o(_arg):$/;"	f
+check_r	Reverse-opensoooooource/opensoooooource.py	/^def check_r(_arg):$/;"	f
+check_t	Reverse-opensoooooource/opensoooooource.py	/^def check_t(_arg):$/;"	f
+check_v	Reverse-opensoooooource/opensoooooource.py	/^def check_v(_arg):$/;"	f
+cipher	Reverse-AstarEstarS/coding/test.py	/^cipher = p.encrypt(padding_pkcs5(flag))$/;"	v
+cipher	Reverse-祖传Bytecode/answer/exp.py	/^cipher = AES.new(key, AES.MODE_ECB)$/;"	v
+cipherInit	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.c	/^int cipherInit(cipherInstance *cipher, BYTE mode, char *IV) {$/;"	f	typeref:typename:int
+cipherInstance	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^} cipherInstance;$/;"	t	typeref:struct:__anon2bb9e0dd0208
+cipherUpdateRounds	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.c	/^int cipherUpdateRounds(cipherInstance *cipher, keyInstance *key,$/;"	f	typeref:typename:int
+cipher_diff	Crypto-BabyDiff/problem/game.py	/^    def cipher_diff(self, msg):$/;"	m	class:DiffGame
+cipher_diff	Crypto-BabyDiff/wp/game.py	/^    def cipher_diff(self, msg):$/;"	m	class:DiffGame
+close	Reverse-FMC_py/answer/pyinstxtractor.py	/^    def close(self):$/;"	m	class:PyInstArchive
+cmd	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="cmd"><\/a>$/;"	a
+code	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="code"><\/a>$/;"	a
+codecs	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="codecs"><\/a>$/;"	a
+codeop	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="codeop"><\/a>$/;"	a
+collections	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="collections"><\/a>$/;"	a
+collections.abc	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="collections.abc"><\/a>$/;"	a
+compose	Misc-phone_call/ans/gen.py	/^    def compose($/;"	m	class:DtmfGenerator
+concurrent	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="concurrent"><\/a>$/;"	a
+concurrent.futures	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="concurrent.futures"><\/a>$/;"	a
+concurrent.futures._base	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="concurrent.futures._base"><\/a>$/;"	a
+concurrent.futures.process	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="concurrent.futures.process"><\/a>$/;"	a
+concurrent.futures.thread	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="concurrent.futures.thread"><\/a>$/;"	a
+configparser	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="configparser"><\/a>$/;"	a
+contextlib	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="contextlib"><\/a>$/;"	a
+contextvars	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="contextvars"><\/a>$/;"	a
+copy	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="copy"><\/a>$/;"	a
+copyreg	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="copyreg"><\/a>$/;"	a
+createKey	Reverse-FMC_py/answer/FMC.py	/^    def createKey(self, keyphrase: str='') -> str:$/;"	m	class:FMC
+createKey	Reverse-FMC_py/answer/exp.py	/^    def createKey(self, keyphrase: str = "") -> str:$/;"	m	class:FMC
+createKey	Reverse-FMC_py/coding/FMC.py	/^    def createKey(self, keyphrase: str = "") -> str:$/;"	m	class:FMC
+csv	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="csv"><\/a>$/;"	a
+ctypes	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="ctypes"><\/a>$/;"	a
+ctypes._endian	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="ctypes._endian"><\/a>$/;"	a
+d	Crypto-baigeiRSA/ans/get.py	/^d = invert(e, phi)$/;"	v
+d	Crypto-baigeiRSA2/ans/get.py	/^d = invert(e, phi)$/;"	v
+data	Reverse-祖传maze/coding/test.py	/^data = []$/;"	v
+datetime	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="datetime"><\/a>$/;"	a
+dec	Crypto-我的新门锁密码/problem/game.py	/^    def dec(self, m):$/;"	m	class:MyHash
+dec	Crypto-我的新门锁密码/server/bin/game.py	/^    def dec(self, m):$/;"	m	class:MyHash
+dec	Crypto-我的新门锁密码/wp/wp.py	/^    def dec(self, m):$/;"	m	class:MyHash
+dec	Crypto-泄露了但没完全泄露/problem/game.py	/^    def dec(self, m):$/;"	m	class:MyCipher
+dec	Reverse-opensoooooource/answer/Okamoto.py	/^def dec(pk, sk, c):$/;"	f
+dec	Reverse-opensoooooource/answer/test.py	/^def dec(pk, sk, c):$/;"	f
+decimal	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="decimal"><\/a>$/;"	a
+delta	Reverse-opensoooooource/answer/test.py	/^delta = 0x9e3779b9$/;"	v
+difflib	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="difflib"><\/a>$/;"	a
+direction	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^    BYTE  direction;                \/* Key used for encrypting or decrypting? *\/$/;"	m	struct:__anon2bb9e0dd0108	typeref:typename:BYTE
+dis	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="dis"><\/a>$/;"	a
+distutils	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="distutils"><\/a>$/;"	a
+distutils.ccompiler	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="distutils.ccompiler"><\/a>$/;"	a
+distutils.debug	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="distutils.debug"><\/a>$/;"	a
+distutils.dep_util	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="distutils.dep_util"><\/a>$/;"	a
+distutils.dir_util	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="distutils.dir_util"><\/a>$/;"	a
+distutils.errors	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="distutils.errors"><\/a>$/;"	a
+distutils.fancy_getopt	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="distutils.fancy_getopt"><\/a>$/;"	a
+distutils.file_util	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="distutils.file_util"><\/a>$/;"	a
+distutils.filelist	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="distutils.filelist"><\/a>$/;"	a
+distutils.log	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="distutils.log"><\/a>$/;"	a
+distutils.spawn	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="distutils.spawn"><\/a>$/;"	a
+distutils.sysconfig	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="distutils.sysconfig"><\/a>$/;"	a
+distutils.text_file	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="distutils.text_file"><\/a>$/;"	a
+distutils.util	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="distutils.util"><\/a>$/;"	a
+doctest	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="doctest"><\/a>$/;"	a
+dst	Reverse-FMC_py/answer/FMC.py	/^    dst = f.FMCEncrypt(flag, key)$/;"	v
+dst	Reverse-FMC_py/answer/exp.py	/^    dst = "BKTAOJOJRJTALTKTCBVTVHFBKTCTCTVRITVBOUVDKGARLTCHVGVTIHFHITIOITCBUFOITC"$/;"	v
+dst	Reverse-FMC_py/coding/FMC.py	/^    dst = f.FMCEncrypt(flag, key)$/;"	v
+dst	Reverse-baigeiXor/coding/baigeiXor.c	/^char dst[32] = {94, 27, 10, 9, 35, 52, 101, 0, 8, 34, 52, 54, 44, 53, 38, 51, 79, 10, 37, 124, 4/;"	v	typeref:typename:char[32]
+dtmf	Misc-phone_call/ans/gen.py	/^    dtmf = DtmfGenerator($/;"	v
+e	Crypto-baigeiRSA/ans/get.py	/^e = 65537$/;"	v
+e	Crypto-baigeiRSA/release/baigei.py	/^e = 65537$/;"	v
+e	Crypto-baigeiRSA2/ans/get.py	/^e = 65537$/;"	v
+e	Crypto-baigeiRSA2/release/baigei2.py	/^e = 65537$/;"	v
+eee	Reverse-opensoooooource/answer/test.py	/^eee = flag[tmp:tmp+size_e]$/;"	v
+ek	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^	u32   ek[4*(MAXNR + 1)];        \/* CFB1 key schedule (encryption only) *\/$/;"	m	struct:__anon2bb9e0dd0108	typeref:typename:u32[]
+email	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="email"><\/a>$/;"	a
+email._encoded_words	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="email._encoded_words"><\/a>$/;"	a
+email._header_value_parser	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="email._header_value_parser"><\/a>$/;"	a
+email._parseaddr	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="email._parseaddr"><\/a>$/;"	a
+email._policybase	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="email._policybase"><\/a>$/;"	a
+email.base64mime	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="email.base64mime"><\/a>$/;"	a
+email.charset	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="email.charset"><\/a>$/;"	a
+email.contentmanager	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="email.contentmanager"><\/a>$/;"	a
+email.encoders	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="email.encoders"><\/a>$/;"	a
+email.errors	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="email.errors"><\/a>$/;"	a
+email.feedparser	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="email.feedparser"><\/a>$/;"	a
+email.generator	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="email.generator"><\/a>$/;"	a
+email.header	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="email.header"><\/a>$/;"	a
+email.headerregistry	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="email.headerregistry"><\/a>$/;"	a
+email.iterators	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="email.iterators"><\/a>$/;"	a
+email.message	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="email.message"><\/a>$/;"	a
+email.parser	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="email.parser"><\/a>$/;"	a
+email.policy	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="email.policy"><\/a>$/;"	a
+email.quoprimime	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="email.quoprimime"><\/a>$/;"	a
+email.utils	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="email.utils"><\/a>$/;"	a
+enc	Crypto-我的新门锁密码/problem/game.py	/^    def enc(self, m):$/;"	m	class:MyHash
+enc	Crypto-我的新门锁密码/server/bin/game.py	/^    def enc(self, m):$/;"	m	class:MyHash
+enc	Crypto-我的新门锁密码/wp/wp.py	/^    def enc(self, m):$/;"	m	class:MyHash
+enc	Crypto-泄露了但没完全泄露/problem/game.py	/^    def enc(self, m):$/;"	m	class:MyCipher
+enc	Reverse-opensoooooource/answer/Okamoto.py	/^def enc(pk, m):$/;"	f
+enc	Reverse-opensoooooource/answer/test.py	/^def enc(pk, m):$/;"	f
+encodings	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings"><\/a>$/;"	a
+encodings.aliases	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.aliases"><\/a>$/;"	a
+encodings.ascii	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.ascii"><\/a>$/;"	a
+encodings.base64_codec	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.base64_codec"><\/a>$/;"	a
+encodings.big5	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.big5"><\/a>$/;"	a
+encodings.big5hkscs	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.big5hkscs"><\/a>$/;"	a
+encodings.bz2_codec	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.bz2_codec"><\/a>$/;"	a
+encodings.charmap	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.charmap"><\/a>$/;"	a
+encodings.cp037	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp037"><\/a>$/;"	a
+encodings.cp1006	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp1006"><\/a>$/;"	a
+encodings.cp1026	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp1026"><\/a>$/;"	a
+encodings.cp1125	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp1125"><\/a>$/;"	a
+encodings.cp1140	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp1140"><\/a>$/;"	a
+encodings.cp1250	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp1250"><\/a>$/;"	a
+encodings.cp1251	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp1251"><\/a>$/;"	a
+encodings.cp1252	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp1252"><\/a>$/;"	a
+encodings.cp1253	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp1253"><\/a>$/;"	a
+encodings.cp1254	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp1254"><\/a>$/;"	a
+encodings.cp1255	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp1255"><\/a>$/;"	a
+encodings.cp1256	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp1256"><\/a>$/;"	a
+encodings.cp1257	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp1257"><\/a>$/;"	a
+encodings.cp1258	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp1258"><\/a>$/;"	a
+encodings.cp273	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp273"><\/a>$/;"	a
+encodings.cp424	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp424"><\/a>$/;"	a
+encodings.cp437	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp437"><\/a>$/;"	a
+encodings.cp500	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp500"><\/a>$/;"	a
+encodings.cp720	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp720"><\/a>$/;"	a
+encodings.cp737	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp737"><\/a>$/;"	a
+encodings.cp775	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp775"><\/a>$/;"	a
+encodings.cp850	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp850"><\/a>$/;"	a
+encodings.cp852	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp852"><\/a>$/;"	a
+encodings.cp855	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp855"><\/a>$/;"	a
+encodings.cp856	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp856"><\/a>$/;"	a
+encodings.cp857	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp857"><\/a>$/;"	a
+encodings.cp858	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp858"><\/a>$/;"	a
+encodings.cp860	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp860"><\/a>$/;"	a
+encodings.cp861	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp861"><\/a>$/;"	a
+encodings.cp862	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp862"><\/a>$/;"	a
+encodings.cp863	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp863"><\/a>$/;"	a
+encodings.cp864	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp864"><\/a>$/;"	a
+encodings.cp865	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp865"><\/a>$/;"	a
+encodings.cp866	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp866"><\/a>$/;"	a
+encodings.cp869	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp869"><\/a>$/;"	a
+encodings.cp874	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp874"><\/a>$/;"	a
+encodings.cp875	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp875"><\/a>$/;"	a
+encodings.cp932	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp932"><\/a>$/;"	a
+encodings.cp949	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp949"><\/a>$/;"	a
+encodings.cp950	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.cp950"><\/a>$/;"	a
+encodings.euc_jis_2004	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.euc_jis_2004"><\/a>$/;"	a
+encodings.euc_jisx0213	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.euc_jisx0213"><\/a>$/;"	a
+encodings.euc_jp	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.euc_jp"><\/a>$/;"	a
+encodings.euc_kr	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.euc_kr"><\/a>$/;"	a
+encodings.gb18030	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.gb18030"><\/a>$/;"	a
+encodings.gb2312	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.gb2312"><\/a>$/;"	a
+encodings.gbk	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.gbk"><\/a>$/;"	a
+encodings.hex_codec	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.hex_codec"><\/a>$/;"	a
+encodings.hp_roman8	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.hp_roman8"><\/a>$/;"	a
+encodings.hz	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.hz"><\/a>$/;"	a
+encodings.idna	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.idna"><\/a>$/;"	a
+encodings.iso2022_jp	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.iso2022_jp"><\/a>$/;"	a
+encodings.iso2022_jp_1	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.iso2022_jp_1"><\/a>$/;"	a
+encodings.iso2022_jp_2	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.iso2022_jp_2"><\/a>$/;"	a
+encodings.iso2022_jp_2004	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.iso2022_jp_2004"><\/a>$/;"	a
+encodings.iso2022_jp_3	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.iso2022_jp_3"><\/a>$/;"	a
+encodings.iso2022_jp_ext	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.iso2022_jp_ext"><\/a>$/;"	a
+encodings.iso2022_kr	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.iso2022_kr"><\/a>$/;"	a
+encodings.iso8859_1	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.iso8859_1"><\/a>$/;"	a
+encodings.iso8859_10	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.iso8859_10"><\/a>$/;"	a
+encodings.iso8859_11	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.iso8859_11"><\/a>$/;"	a
+encodings.iso8859_13	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.iso8859_13"><\/a>$/;"	a
+encodings.iso8859_14	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.iso8859_14"><\/a>$/;"	a
+encodings.iso8859_15	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.iso8859_15"><\/a>$/;"	a
+encodings.iso8859_16	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.iso8859_16"><\/a>$/;"	a
+encodings.iso8859_2	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.iso8859_2"><\/a>$/;"	a
+encodings.iso8859_3	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.iso8859_3"><\/a>$/;"	a
+encodings.iso8859_4	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.iso8859_4"><\/a>$/;"	a
+encodings.iso8859_5	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.iso8859_5"><\/a>$/;"	a
+encodings.iso8859_6	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.iso8859_6"><\/a>$/;"	a
+encodings.iso8859_7	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.iso8859_7"><\/a>$/;"	a
+encodings.iso8859_8	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.iso8859_8"><\/a>$/;"	a
+encodings.iso8859_9	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.iso8859_9"><\/a>$/;"	a
+encodings.johab	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.johab"><\/a>$/;"	a
+encodings.koi8_r	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.koi8_r"><\/a>$/;"	a
+encodings.koi8_t	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.koi8_t"><\/a>$/;"	a
+encodings.koi8_u	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.koi8_u"><\/a>$/;"	a
+encodings.kz1048	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.kz1048"><\/a>$/;"	a
+encodings.latin_1	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.latin_1"><\/a>$/;"	a
+encodings.mac_arabic	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.mac_arabic"><\/a>$/;"	a
+encodings.mac_centeuro	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.mac_centeuro"><\/a>$/;"	a
+encodings.mac_croatian	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.mac_croatian"><\/a>$/;"	a
+encodings.mac_cyrillic	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.mac_cyrillic"><\/a>$/;"	a
+encodings.mac_farsi	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.mac_farsi"><\/a>$/;"	a
+encodings.mac_greek	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.mac_greek"><\/a>$/;"	a
+encodings.mac_iceland	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.mac_iceland"><\/a>$/;"	a
+encodings.mac_latin2	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.mac_latin2"><\/a>$/;"	a
+encodings.mac_roman	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.mac_roman"><\/a>$/;"	a
+encodings.mac_romanian	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.mac_romanian"><\/a>$/;"	a
+encodings.mac_turkish	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.mac_turkish"><\/a>$/;"	a
+encodings.mbcs	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.mbcs"><\/a>$/;"	a
+encodings.oem	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.oem"><\/a>$/;"	a
+encodings.palmos	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.palmos"><\/a>$/;"	a
+encodings.ptcp154	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.ptcp154"><\/a>$/;"	a
+encodings.punycode	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.punycode"><\/a>$/;"	a
+encodings.quopri_codec	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.quopri_codec"><\/a>$/;"	a
+encodings.raw_unicode_escape	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.raw_unicode_escape"><\/a>$/;"	a
+encodings.rot_13	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.rot_13"><\/a>$/;"	a
+encodings.shift_jis	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.shift_jis"><\/a>$/;"	a
+encodings.shift_jis_2004	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.shift_jis_2004"><\/a>$/;"	a
+encodings.shift_jisx0213	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.shift_jisx0213"><\/a>$/;"	a
+encodings.tis_620	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.tis_620"><\/a>$/;"	a
+encodings.undefined	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.undefined"><\/a>$/;"	a
+encodings.unicode_escape	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.unicode_escape"><\/a>$/;"	a
+encodings.utf_16	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.utf_16"><\/a>$/;"	a
+encodings.utf_16_be	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.utf_16_be"><\/a>$/;"	a
+encodings.utf_16_le	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.utf_16_le"><\/a>$/;"	a
+encodings.utf_32	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.utf_32"><\/a>$/;"	a
+encodings.utf_32_be	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.utf_32_be"><\/a>$/;"	a
+encodings.utf_32_le	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.utf_32_le"><\/a>$/;"	a
+encodings.utf_7	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.utf_7"><\/a>$/;"	a
+encodings.utf_8	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.utf_8"><\/a>$/;"	a
+encodings.utf_8_sig	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.utf_8_sig"><\/a>$/;"	a
+encodings.uu_codec	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.uu_codec"><\/a>$/;"	a
+encodings.zlib_codec	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="encodings.zlib_codec"><\/a>$/;"	a
+encryption	Crypto-泄露了但没完全泄露/problem/game.py	/^    def encryption(self, m):$/;"	m	class:MyCipher
+enum	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="enum"><\/a>$/;"	a
+errno	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="errno"><\/a>$/;"	a
+extractFiles	Reverse-FMC_py/answer/pyinstxtractor.py	/^    def extractFiles(self):$/;"	m	class:PyInstArchive
+ezphp wp	Web-ezphp/readme.md	/^# ezphp wp$/;"	c
+f	Reverse-FMC_py/answer/FMC.py	/^    f = FMC()$/;"	v
+f	Reverse-FMC_py/answer/exp.py	/^    f = FMC()$/;"	v
+f	Reverse-FMC_py/coding/FMC.py	/^    f = FMC()$/;"	v
+fibo	Crypto-babyFibo/release/fibo.py	/^def fibo(n):$/;"	f
+find_collision	Crypto-我的新门锁密码/wp/wp.py	/^    def find_collision(self, h):$/;"	m	class:MyHash
+flag	Crypto-BabyDiff/wp/secret.py	/^flag = b'hsctf{NIced1ff}'$/;"	v
+flag	Crypto-Equation/ans/secret.py	/^flag = 'HSCTF{1e8d38ef-a949-4117-8ec1-1e8cb3f16c89}'$/;"	v
+flag	Crypto-Equation/release/equation.py	/^flag = [flag[(43\/\/3)*i:(43\/\/3)*(i+1)] for i in range(3)]$/;"	v
+flag	Crypto-babyECC2/ans/get.py	/^flag = ''$/;"	v
+flag	Crypto-babyECC2/ans/secret.py	/^flag = 'HSCTF{121c8fab-bead-4a4c-852a-1522f453f135}'$/;"	v
+flag	Crypto-babyFibo/ans/get.py	/^flag = libnum.n2s(int(m))$/;"	v
+flag	Crypto-babyFibo/ans/secret.py	/^flag = b'HSCTF{1d9cb42f-3302-46f3-a3a7-0ca30d631cc9}'$/;"	v
+flag	Crypto-baigeiRSA/ans/get.py	/^flag = libnum.n2s(int(m))$/;"	v
+flag	Crypto-baigeiRSA/ans/secret.py	/^flag = 'HSCTF{@Zh3n_Ba1_G3i!@}'$/;"	v
+flag	Crypto-baigeiRSA2/ans/get.py	/^flag = libnum.n2s(int(m))$/;"	v
+flag	Crypto-baigeiRSA2/ans/secret.py	/^flag = 'HSCTF{@Tv0_br3ad5_c1ip_cHe3se_!@}'$/;"	v
+flag	Crypto-我的新门锁密码/server/bin/secret.py	/^flag = 'flag{test}'$/;"	v
+flag	Misc-B45364/README.md	/^## flag$/;"	s
+flag	Misc-SignIn/README.md	/^## flag$/;"	s
+flag	Misc-guessTHEsong/README.md	/^## flag$/;"	s
+flag	Misc-一个小彩蛋！/README.md	/^## flag$/;"	s
+flag	Misc-既见未来，为何不buy/README.md	/^## flag$/;"	s
+flag	Misc-既见未来，为何不buy/answer/exp.py	/^flag = b64decode(part1) + b64decode(part2)$/;"	v
+flag	Misc-鸠 打 电 话/README.md	/^## flag$/;"	s
+flag	Reverse-2^11/README.md	/^## flag$/;"	s
+flag	Reverse-2^11/answer/exp.py	/^flag = ""$/;"	v
+flag	Reverse-2^11/coding/test.py	/^flag = "flag{E1d3sTBrOth3r_CaR0Ilikoule}"$/;"	v
+flag	Reverse-AstarEstarS/README.md	/^## flag$/;"	s
+flag	Reverse-AstarEstarS/coding/test.py	/^flag = 'flag{OH!It_s33ms_th4t_y0u_kn0w_A*E*S!}'$/;"	v
+flag	Reverse-FMC_py/README.md	/^## flag$/;"	s
+flag	Reverse-FMC_py/answer/FMC.py	/^    flag = input('Give me a sentence?\\n')$/;"	v
+flag	Reverse-FMC_py/answer/exp.py	/^    flag = f.FMCDecrypt(dst, key)$/;"	v
+flag	Reverse-FMC_py/coding/FMC.py	/^    flag = input("Give me a sentence?\\n")$/;"	v
+flag	Reverse-Fighting/README.md	/^## flag$/;"	s
+flag	Reverse-Splashes!!!/README.md	/^## flag$/;"	s
+flag	Reverse-baigeiXor/README.md	/^## flag$/;"	s
+flag	Reverse-baigeiXor/answer/exp.py	/^    flag = [flag[j] ^ s[i][j] for j in range(len(flag))]$/;"	v
+flag	Reverse-baigeiXor/answer/exp.py	/^flag = [0x5E, 0x1B, 0x0A, 0x09, 0x23, 0x34, 0x65, 0x00, 0x08, 0x22, 0x34, 0x36, 0x2C, 0x35, 0x26/;"	v
+flag	Reverse-baigeiXor/coding/test.py	/^    flag = [flag[j] ^ s[i][j] for j in range(len(flag))]$/;"	v
+flag	Reverse-baigeiXor/coding/test.py	/^flag = "flag{b4igei_baig3il3_zhenba1ge1}"$/;"	v
+flag	Reverse-baigeiXor/coding/test.py	/^flag = list(map(ord, flag))$/;"	v
+flag	Reverse-opensoooooource/README.md	/^## flag$/;"	s
+flag	Reverse-opensoooooource/answer/test.py	/^flag = 'd0_u_know_what_the_SECRET_is_ju5t_534rch_tha7!'$/;"	v
+flag	Reverse-祖传Bytecode/README.md	/^## flag$/;"	s
+flag	Reverse-祖传Bytecode/answer/exp.py	/^flag = ''.join(map(chr, flag))$/;"	v
+flag	Reverse-祖传Bytecode/answer/exp.py	/^flag = cipher.encrypt(bytes.fromhex(c))$/;"	v
+flag	Reverse-祖传Bytecode/answer/exp.py	/^flag = list(flag)$/;"	v
+flag	Reverse-祖传maze/README.md	/^## flag$/;"	s
+flag	Reverse-祖传maze/answer/exp.py	/^flag = "flag{" + md5(s).hexdigest() + "}"$/;"	v
+flags	Reverse-opensoooooource/opensoooooource.py	/^    flags = [t[1] for t in opts]$/;"	v
+fnmatch	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="fnmatch"><\/a>$/;"	a
+foo	Reverse-AstarEstarS/coding/rijndael-fst-3.0/AstarEstarS.c	/^int foo(keyInstance *key, cipherInstance *cipher, textInstance *input, textInstance *output) {$/;"	f	typeref:typename:int
+foo1	Reverse-baigeiXor/coding/baigeiXor.c	/^int foo1(char s[]) {$/;"	f	typeref:typename:int
+foo1	Reverse-祖传Bytecode/coding/Bytecode.py	/^def foo1(s):$/;"	f
+foo2	Reverse-baigeiXor/coding/baigeiXor.c	/^int foo2(char s[]) {$/;"	f	typeref:typename:int
+foo2	Reverse-祖传Bytecode/coding/Bytecode.py	/^def foo2(l):$/;"	f
+foo3	Reverse-baigeiXor/coding/baigeiXor.c	/^int foo3(char s[]) {$/;"	f	typeref:typename:int
+foo3	Reverse-祖传Bytecode/coding/Bytecode.py	/^def foo3(b):$/;"	f
+freq	Misc-phone_call/ans/gen.py	/^    freq = 20000$/;"	v
+fromMorse	Reverse-FMC_py/answer/exp.py	/^    def fromMorse(self, mcmsg: str) -> str:$/;"	m	class:FMC
+ftplib	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="ftplib"><\/a>$/;"	a
+functools	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="functools"><\/a>$/;"	a
+gc	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="gc"><\/a>$/;"	a
+gen	Reverse-opensoooooource/answer/Okamoto.py	/^def gen(bits=512):$/;"	f
+genericpath	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="genericpath"><\/a>$/;"	a
+getCArchiveInfo	Reverse-FMC_py/answer/pyinstxtractor.py	/^    def getCArchiveInfo(self):$/;"	m	class:PyInstArchive
+getSomething	Reverse-AstarEstarS/coding/rijndael-fst-3.0/AstarEstarS.c	/^size_t getSomething(char key[]) {$/;"	f	typeref:typename:size_t
+getopt	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="getopt"><\/a>$/;"	a
+getpass	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="getpass"><\/a>$/;"	a
+gettext	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="gettext"><\/a>$/;"	a
+glob	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="glob"><\/a>$/;"	a
+grp	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="grp"><\/a>$/;"	a
+guessTHEsong	Misc-guessTHEsong/README.md	/^# guessTHEsong$/;"	c
+gzip	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="gzip"><\/a>$/;"	a
+hash	Crypto-我的新门锁密码/problem/game.py	/^    def hash(self, msg):$/;"	m	class:MyHash
+hash	Crypto-我的新门锁密码/server/bin/game.py	/^    def hash(self, msg):$/;"	m	class:MyHash
+hash	Crypto-我的新门锁密码/wp/wp.py	/^    def hash(self, msg):$/;"	m	class:MyHash
+hashlib	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="hashlib"><\/a>$/;"	a
+heapq	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="heapq"><\/a>$/;"	a
+hint	Misc-B45364/README.md	/^## hint$/;"	s
+hint	Misc-SignIn/README.md	/^## hint$/;"	s
+hint	Misc-guessTHEsong/README.md	/^## hint$/;"	s
+hint	Misc-既见未来，为何不buy/README.md	/^## hint$/;"	s
+hint	Misc-鸠 打 电 话/README.md	/^## hint$/;"	s
+hint	Reverse-2^11/README.md	/^## hint$/;"	s
+hint	Reverse-AstarEstarS/README.md	/^## hint$/;"	s
+hint	Reverse-FMC_py/README.md	/^## hint$/;"	s
+hint	Reverse-Fighting/README.md	/^## hint$/;"	s
+hint	Reverse-Splashes!!!/README.md	/^## hint$/;"	s
+hint	Reverse-baigeiXor/README.md	/^## hint$/;"	s
+hint	Reverse-opensoooooource/README.md	/^## hint$/;"	s
+hint	Reverse-祖传Bytecode/README.md	/^## hint$/;"	s
+hint	Reverse-祖传maze/README.md	/^## hint$/;"	s
+hmac	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="hmac"><\/a>$/;"	a
+html	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="html"><\/a>$/;"	a
+html.entities	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="html.entities"><\/a>$/;"	a
+http	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="http"><\/a>$/;"	a
+http.client	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="http.client"><\/a>$/;"	a
+http.cookiejar	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="http.cookiejar"><\/a>$/;"	a
+http.server	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="http.server"><\/a>$/;"	a
+i	Reverse-2^11/coding/2^11.c	/^int m[36] = { 0 }, score = 0, can = 0, air = 16, c = 0, i = 6, j, *p;$/;"	v	typeref:typename:int[36]
+i	Reverse-祖传Bytecode/answer/exp.py	/^    i = 3 + 2*i$/;"	v
+importlib	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="importlib"><\/a>$/;"	a
+importlib._bootstrap	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="importlib._bootstrap"><\/a>$/;"	a
+importlib._bootstrap_external	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="importlib._bootstrap_external"><\/a>$/;"	a
+importlib.abc	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="importlib.abc"><\/a>$/;"	a
+importlib.machinery	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="importlib.machinery"><\/a>$/;"	a
+importlib.metadata	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="importlib.metadata"><\/a>$/;"	a
+importlib.util	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="importlib.util"><\/a>$/;"	a
+inspect	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="inspect"><\/a>$/;"	a
+io	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="io"><\/a>$/;"	a
+itertools	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="itertools"><\/a>$/;"	a
+j	Reverse-2^11/coding/2^11.c	/^int m[36] = { 0 }, score = 0, can = 0, air = 16, c = 0, i = 6, j, *p;$/;"	v	typeref:typename:int[36]
+j	Reverse-祖传Bytecode/answer/exp.py	/^    j = i$/;"	v
+java	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="java"><\/a>$/;"	a
+k0	Reverse-opensoooooource/answer/test.py	/^k0, k1, k2, k3 = key$/;"	v
+k1	Reverse-opensoooooource/answer/test.py	/^k0, k1, k2, k3 = key$/;"	v
+k2	Reverse-opensoooooource/answer/test.py	/^k0, k1, k2, k3 = key$/;"	v
+k3	Reverse-opensoooooource/answer/test.py	/^k0, k1, k2, k3 = key$/;"	v
+key	Crypto-babyECC2/ans/get.py	/^key = [c[0]^ord('H'), c[1]^ord('S')]$/;"	v
+key	Reverse-2^11/coding/test.py	/^key  = "H4ve_fun_w1th_R3verse_my_friend~"$/;"	v
+key	Reverse-AstarEstarS/answer/exp.py	/^key = ''$/;"	v
+key	Reverse-AstarEstarS/answer/exp.py	/^key = key.encode()$/;"	v
+key	Reverse-AstarEstarS/coding/test.py	/^key = b"th1s_is_a_key_YO"$/;"	v
+key	Reverse-FMC_py/answer/FMC.py	/^    key = 'ToverCrackRSA'$/;"	v
+key	Reverse-FMC_py/answer/exp.py	/^    key = "ToverCrackRSA"$/;"	v
+key	Reverse-FMC_py/coding/FMC.py	/^    key = "ToverCrackRSA"$/;"	v
+key	Reverse-opensoooooource/answer/test.py	/^key = (SECRET * 4)[::-1][:16]$/;"	v
+key	Reverse-opensoooooource/answer/test.py	/^key = [int.from_bytes(x.encode(), byteorder = 'little') for x in re.findall(r'\\D{1,4}', key)]$/;"	v
+key	Reverse-祖传Bytecode/answer/exp.py	/^key = b'!!!Tover_yyds!!!'$/;"	v
+keyInstance	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^} keyInstance;$/;"	t	typeref:struct:__anon2bb9e0dd0108
+keyLen	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^    int   keyLen;                   \/* Length of the key  *\/$/;"	m	struct:__anon2bb9e0dd0108	typeref:typename:int
+keyMaterial	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^    char  keyMaterial[MAX_KEY_SIZE+1];  \/* Raw key data in ASCII, e.g., user input or KAT value/;"	m	struct:__anon2bb9e0dd0108	typeref:typename:char[]
+keyToMorse	Reverse-FMC_py/answer/exp.py	/^    def keyToMorse(self, kmsg: str, key: str = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"):$/;"	m	class:FMC
+keys	Reverse-opensoooooource/answer/test.py	/^keys = re.findall(r'\\D{1,2}', s)$/;"	v
+keyword	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="keyword"><\/a>$/;"	a
+l0	Crypto-Equation/release/equation.py	/^l0 = len(bin(y0))-2$/;"	v
+l1	Crypto-Equation/release/equation.py	/^l1 = len(bin(y1))-2$/;"	v
+l2	Crypto-Equation/release/equation.py	/^l2 = len(bin(y2))-2$/;"	v
+len	Reverse-AstarEstarS/coding/rijndael-fst-3.0/AstarEstarS.c	/^    int len;$/;"	m	struct:__anon1279b2bb0108	typeref:typename:int	file:
+linecache	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="linecache"><\/a>$/;"	a
+locale	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="locale"><\/a>$/;"	a
+logging	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="logging"><\/a>$/;"	a
+lzma	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="lzma"><\/a>$/;"	a
+m	Crypto-babyFibo/ans/get.py	/^m = c^s$/;"	v
+m	Crypto-babyFibo/release/fibo.py	/^m = libnum.s2n(flag+os.urandom((len(bin(s))-2)\/\/8-len(flag)))$/;"	v
+m	Crypto-baigeiRSA/ans/get.py	/^m = pow(c, d, n)$/;"	v
+m	Crypto-baigeiRSA/release/baigei.py	/^m = libnum.s2n(flag)$/;"	v
+m	Crypto-baigeiRSA2/ans/get.py	/^m = pow(c, d, n)$/;"	v
+m	Crypto-baigeiRSA2/release/baigei2.py	/^m = libnum.s2n(flag)$/;"	v
+m	Reverse-2^11/coding/2^11.c	/^int m[36] = { 0 }, score = 0, can = 0, air = 16, c = 0, i = 6, j, *p;$/;"	v	typeref:typename:int[36]
+m	Reverse-opensoooooource/answer/Okamoto.py	/^    m = 5201314$/;"	v
+m	Reverse-opensoooooource/answer/test.py	/^m = eee.replace('_', '').replace('?', '').upper()$/;"	v
+m	Reverse-opensoooooource/answer/test.py	/^m = libnum.s2n(ooo)$/;"	v
+m	Reverse-opensoooooource/answer/test.py	/^m = rrr.encode()$/;"	v
+m	Reverse-opensoooooource/answer/test.py	/^m = ttt.join([SECRET for _ in range(2)])[:8]$/;"	v
+m	Reverse-opensoooooource/answer/test.py	/^m = vvv.replace('_', '')$/;"	v
+m	Reverse-祖传maze/coding/maze.c	/^int n = 3, m = 0;$/;"	v	typeref:typename:int
+m2	Reverse-opensoooooource/answer/Okamoto.py	/^    m2 = dec(pk, sk, c)$/;"	v
+m2	Reverse-opensoooooource/answer/test.py	/^m2 = aes.decrypt(rijndael_c)$/;"	v
+m2	Reverse-opensoooooource/answer/test.py	/^m2 = dec(pk, sk, c)$/;"	v
+m2	Reverse-opensoooooource/answer/test.py	/^m2 = m2[5:7]$/;"	v
+m2	Reverse-opensoooooource/answer/test.py	/^m2 = pycipher.Enigma(settings = ('A', 'A', 'A'), rotors = (1, 2, 3), reflector = 'B', ringstellu/;"	v
+m2	Reverse-opensoooooource/answer/test.py	/^m2 = pycipher.Vigenere(SECRET).decipher(c)$/;"	v
+m2	Reverse-opensoooooource/answer/test.py	/^m2 = v0.value.to_bytes(4, byteorder = 'big') + v1.value.to_bytes(4, byteorder = 'big')$/;"	v
+main	Crypto-BabyDiff/problem/game.py	/^def main():$/;"	f
+main	Crypto-BabyDiff/wp/game.py	/^def main():$/;"	f
+main	Crypto-BabyDiff/wp/wp.py	/^def main():$/;"	f
+main	Crypto-我的新门锁密码/problem/game.py	/^def main():$/;"	f
+main	Crypto-我的新门锁密码/server/bin/game.py	/^def main():$/;"	f
+main	Crypto-我的新门锁密码/wp/wp.py	/^def main():$/;"	f
+main	Crypto-泄露了但没完全泄露/problem/game.py	/^def main():$/;"	f
+main	Crypto-泄露了但没完全泄露/wp/wp.py	/^def main():$/;"	f
+main	Reverse-2^11/coding/2^11.c	/^int main() {$/;"	f	typeref:typename:int
+main	Reverse-AstarEstarS/coding/rijndael-fst-3.0/AstarEstarS.c	/^int main() {$/;"	f	typeref:typename:int
+main	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-test-fst.c	/^int main(void) {$/;"	f	typeref:typename:int
+main	Reverse-FMC_py/answer/pyinstxtractor.py	/^def main():$/;"	f
+main	Reverse-baigeiXor/coding/baigeiXor.c	/^int main() {$/;"	f	typeref:typename:int
+main	Reverse-祖传Bytecode/coding/Bytecode.py	/^def main():$/;"	f
+main	Reverse-祖传maze/coding/maze.c	/^int main() {$/;"	f	typeref:typename:int
+makeFIPSTestVectors	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-test-fst.c	/^static void makeFIPSTestVectors(const char *fipsFile) {$/;"	f	typeref:typename:void	file:
+makeKATs	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-test-fst.c	/^static void makeKATs(const char *vkFile, const char *vtFile, const char *tblFile, const char *iv/;"	f	typeref:typename:void	file:
+makeKey	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.c	/^int makeKey(keyInstance *key, BYTE direction, int keyLen, char *keyMaterial) {	$/;"	f	typeref:typename:int
+makeMCTs	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-test-fst.c	/^static void makeMCTs(const char *ecbEncryptionFile, const char *ecbDecryptionFile,$/;"	f	typeref:typename:void	file:
+map	Reverse-祖传maze/coding/maze.c	/^char map[285] = {2, 1, 1, 0, 1, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 2, 0, 1, 0, 0, 1, 1/;"	v	typeref:typename:char[285]
+mappp	Reverse-祖传maze/answer/exp.py	/^mappp = [0x02, 0x01, 0x01, 0x00, 0x01, 0x00, 0x00, 0x03, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x0/;"	v
+marshal	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="marshal"><\/a>$/;"	a
+math	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="math"><\/a>$/;"	a
+mimetypes	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="mimetypes"><\/a>$/;"	a
+mmap	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="mmap"><\/a>$/;"	a
+mode	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^    BYTE  mode;                     \/* MODE_ECB, MODE_CBC, or MODE_CFB1 *\/$/;"	m	struct:__anon2bb9e0dd0208	typeref:typename:BYTE
+modulegraph cross reference for FMC.py, pyi_rth_inspect.py, pyi_rth_multiprocessing.py, pyi_rth_pkgutil.py	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^    <h1>modulegraph cross reference for FMC.py, pyi_rth_inspect.py, pyi_rth_multiprocessing.py, /;"	h
+morseToKey	Reverse-FMC_py/answer/FMC.py	/^    def morseToKey(self, mcmsg: str, key: str) -> str:$/;"	m	class:FMC
+morseToKey	Reverse-FMC_py/coding/FMC.py	/^    def morseToKey(self, mcmsg: str, key: str) -> str:$/;"	m	class:FMC
+move	Reverse-2^11/coding/2^11.c	/^void move(int *q, int v) {$/;"	f	typeref:typename:void
+move	Reverse-祖传maze/coding/maze.c	/^int move(char op) {$/;"	f	typeref:typename:int
+msvcrt	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="msvcrt"><\/a>$/;"	a
+multiprocessing	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="multiprocessing"><\/a>$/;"	a
+multiprocessing.AuthenticationError	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="multiprocessing.AuthenticationError"><\/a>$/;"	a
+multiprocessing.BufferTooShort	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="multiprocessing.BufferTooShort"><\/a>$/;"	a
+multiprocessing.TimeoutError	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="multiprocessing.TimeoutError"><\/a>$/;"	a
+multiprocessing.connection	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="multiprocessing.connection"><\/a>$/;"	a
+multiprocessing.context	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="multiprocessing.context"><\/a>$/;"	a
+multiprocessing.dummy	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="multiprocessing.dummy"><\/a>$/;"	a
+multiprocessing.dummy.connection	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="multiprocessing.dummy.connection"><\/a>$/;"	a
+multiprocessing.forkserver	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="multiprocessing.forkserver"><\/a>$/;"	a
+multiprocessing.get_context	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="multiprocessing.get_context"><\/a>$/;"	a
+multiprocessing.get_start_method	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="multiprocessing.get_start_method"><\/a>$/;"	a
+multiprocessing.heap	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="multiprocessing.heap"><\/a>$/;"	a
+multiprocessing.managers	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="multiprocessing.managers"><\/a>$/;"	a
+multiprocessing.pool	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="multiprocessing.pool"><\/a>$/;"	a
+multiprocessing.popen_fork	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="multiprocessing.popen_fork"><\/a>$/;"	a
+multiprocessing.popen_forkserver	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="multiprocessing.popen_forkserver"><\/a>$/;"	a
+multiprocessing.popen_spawn_posix	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="multiprocessing.popen_spawn_posix"><\/a>$/;"	a
+multiprocessing.popen_spawn_win32	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="multiprocessing.popen_spawn_win32"><\/a>$/;"	a
+multiprocessing.process	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="multiprocessing.process"><\/a>$/;"	a
+multiprocessing.queues	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="multiprocessing.queues"><\/a>$/;"	a
+multiprocessing.reduction	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="multiprocessing.reduction"><\/a>$/;"	a
+multiprocessing.resource_sharer	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="multiprocessing.resource_sharer"><\/a>$/;"	a
+multiprocessing.resource_tracker	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="multiprocessing.resource_tracker"><\/a>$/;"	a
+multiprocessing.set_start_method	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="multiprocessing.set_start_method"><\/a>$/;"	a
+multiprocessing.shared_memory	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="multiprocessing.shared_memory"><\/a>$/;"	a
+multiprocessing.sharedctypes	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="multiprocessing.sharedctypes"><\/a>$/;"	a
+multiprocessing.spawn	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="multiprocessing.spawn"><\/a>$/;"	a
+multiprocessing.synchronize	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="multiprocessing.synchronize"><\/a>$/;"	a
+multiprocessing.util	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="multiprocessing.util"><\/a>$/;"	a
+music	Misc-guessTHEsong/coding/proc.py	/^music="531556545517765434553155654534554321"$/;"	v
+n	Crypto-baigeiRSA/ans/get.py	/^n = 88503001447845031603457048661635807319447136634748350130947825183012205093541$/;"	v
+n	Crypto-baigeiRSA/release/baigei.py	/^n = p*q$/;"	v
+n	Crypto-baigeiRSA2/ans/get.py	/^n = 17579713727651740002417086119819208902125392048935181214704368781707648237637980606337237601/;"	v
+n	Crypto-baigeiRSA2/release/baigei2.py	/^n = 5$/;"	v
+n	Crypto-baigeiRSA2/release/baigei2.py	/^n = reduce(lambda x, y: x*y, ps)$/;"	v
+n	Reverse-祖传maze/coding/maze.c	/^int n = 3, m = 0;$/;"	v	typeref:typename:int
+netrc	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="netrc"><\/a>$/;"	a
+np	Misc-phone_call/ans/gen.py	/^import numpy as np$/;"	I
+nt	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="nt"><\/a>$/;"	a
+ntpath	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="ntpath"><\/a>$/;"	a
+nturl2path	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="nturl2path"><\/a>$/;"	a
+numbers	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="numbers"><\/a>$/;"	a
+ooo	Reverse-opensoooooource/answer/test.py	/^ooo = flag[tmp:tmp+size_o]$/;"	v
+opcode	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="opcode"><\/a>$/;"	a
+open	Reverse-FMC_py/answer/pyinstxtractor.py	/^    def open(self):$/;"	m	class:PyInstArchive
+opensoooooource	Reverse-opensoooooource/README.md	/^# opensoooooource$/;"	c
+operator	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="operator"><\/a>$/;"	a
+opt_visited	Reverse-opensoooooource/opensoooooource.py	/^    opt_visited = []$/;"	v
+optparse	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="optparse"><\/a>$/;"	a
+order	Reverse-2^11/coding/2^11.c	/^void order(int b, int v) { b - j && ((move(m + b, v), order(b + i, v), 0)); }$/;"	f	typeref:typename:void
+org	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="org"><\/a>$/;"	a
+os	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="os"><\/a>$/;"	a
+p	Crypto-baigeiRSA/ans/get.py	/^p = 274539690398523616505159415195049044439$/;"	v
+p	Crypto-baigeiRSA/release/baigei.py	/^p = number.getPrime(size)$/;"	v
+p	Reverse-2^11/coding/2^11.c	/^int m[36] = { 0 }, score = 0, can = 0, air = 16, c = 0, i = 6, j, *p;$/;"	v	typeref:typename:int[36]*
+p	Reverse-AstarEstarS/answer/exp.py	/^p = AES.new(key, AES.MODE_ECB)$/;"	v
+p	Reverse-AstarEstarS/coding/test.py	/^p = AES.new(key, AES.MODE_ECB)$/;"	v
+pad	Crypto-我的新门锁密码/problem/game.py	/^    def pad(self, m):$/;"	m	class:MyHash
+pad	Crypto-我的新门锁密码/server/bin/game.py	/^    def pad(self, m):$/;"	m	class:MyHash
+pad	Crypto-我的新门锁密码/wp/wp.py	/^    def pad(self, m):$/;"	m	class:MyHash
+pad	Crypto-泄露了但没完全泄露/problem/game.py	/^    def pad(self, m):$/;"	m	class:MyCipher
+pad	Crypto-泄露了但没完全泄露/wp/wp.py	/^def pad(m):$/;"	f
+padDecrypt	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.c	/^int padDecrypt(cipherInstance *cipher, keyInstance *key,$/;"	f	typeref:typename:int
+padEncrypt	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.c	/^int padEncrypt(cipherInstance *cipher, keyInstance *key,$/;"	f	typeref:typename:int
+padding_pkcs5	Reverse-AstarEstarS/coding/test.py	/^def padding_pkcs5(value):$/;"	f
+parseTOC	Reverse-FMC_py/answer/pyinstxtractor.py	/^    def parseTOC(self):$/;"	m	class:PyInstArchive
+part1	Misc-既见未来，为何不buy/answer/exp.py	/^part1 = b'ZmxhZ3tEb191X2g0dmVfYQ=='$/;"	v
+part2	Misc-既见未来，为何不buy/answer/exp.py	/^part2 = b'X2wxdmVseV9ucHlfaGFofQ=='$/;"	v
+path	Reverse-祖传maze/coding/maze.c	/^char path[51] = {0};$/;"	v	typeref:typename:char[51]
+pathlib	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="pathlib"><\/a>$/;"	a
+pdb	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="pdb"><\/a>$/;"	a
+phi	Crypto-baigeiRSA/ans/get.py	/^phi = (p-1)*(q-1)$/;"	v
+phi	Crypto-baigeiRSA2/ans/get.py	/^phi = reduce(lambda x, y: (x)*(y-1), [1]+ps)$/;"	v
+pickle	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="pickle"><\/a>$/;"	a
+pk	Reverse-opensoooooource/answer/Okamoto.py	/^    pk, sk = gen()$/;"	v
+pk	Reverse-opensoooooource/answer/test.py	/^pk = (152861688054919444842094570660107226915936714953076251256632737564788092748603412811002125/;"	v
+pkgutil	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="pkgutil"><\/a>$/;"	a
+platform	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="platform"><\/a>$/;"	a
+plistlib	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="plistlib"><\/a>$/;"	a
+pos	Reverse-祖传maze/answer/exp.py	/^pos = 0$/;"	v
+posix	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="posix"><\/a>$/;"	a
+posixpath	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="posixpath"><\/a>$/;"	a
+possible_list	Crypto-BabyDiff/wp/wp.py	/^def possible_list():$/;"	f
+pprint	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="pprint"><\/a>$/;"	a
+printBytes	Reverse-AstarEstarS/coding/rijndael-fst-3.0/AstarEstarS.c	/^void printBytes(textInstance *text) {$/;"	f	typeref:typename:void
+printMenu	Reverse-AstarEstarS/coding/rijndael-fst-3.0/AstarEstarS.c	/^void printMenu() {$/;"	f	typeref:typename:void
+pro	Misc-guessTHEsong/coding/proc.py	/^pro=""$/;"	v
+ps	Crypto-baigeiRSA2/ans/get.py	/^ps = [$/;"	v
+ps	Crypto-baigeiRSA2/release/baigei2.py	/^    ps = [number.getPrime(size) for _ in range(n)]$/;"	v
+pwd	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="pwd"><\/a>$/;"	a
+py_compile	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="py_compile"><\/a>$/;"	a
+pydoc	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="pydoc"><\/a>$/;"	a
+pydoc_data	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="pydoc_data"><\/a>$/;"	a
+pydoc_data.topics	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="pydoc_data.topics"><\/a>$/;"	a
+pyexpat	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="pyexpat"><\/a>$/;"	a
+pyi_rth_inspect.py	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="pyi_rth_inspect.py"><\/a>$/;"	a
+pyi_rth_multiprocessing.py	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="pyi_rth_multiprocessing.py"><\/a>$/;"	a
+pyi_rth_pkgutil.py	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="pyi_rth_pkgutil.py"><\/a>$/;"	a
+pyimod03_importers	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="pyimod03_importers"><\/a>$/;"	a
+q	Crypto-baigeiRSA/ans/get.py	/^q = 322368694010594584041053487661458382819$/;"	v
+q	Crypto-baigeiRSA/release/baigei.py	/^q = number.getPrime(size)$/;"	v
+queue	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="queue"><\/a>$/;"	a
+quopri	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="quopri"><\/a>$/;"	a
+random	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="random"><\/a>$/;"	a
+rcon	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-alg-fst.c	/^static const u32 rcon[] = {$/;"	v	typeref:typename:const u32[]	file:
+re	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="re"><\/a>$/;"	a
+reCaptcha	Crypto-我的新门锁密码/problem/reCaptcha.py	/^def reCaptcha():$/;"	f
+reCaptcha	Crypto-我的新门锁密码/server/bin/reCaptcha.py	/^def reCaptcha():$/;"	f
+readline	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="readline"><\/a>$/;"	a
+reprlib	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="reprlib"><\/a>$/;"	a
+resource	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="resource"><\/a>$/;"	a
+rijndaelCBC_MCT	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-test-fst.c	/^static void rijndaelCBC_MCT(FILE *fp, int keyLength, BYTE direction) {$/;"	f	typeref:typename:void	file:
+rijndaelDecrypt	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-alg-fst.c	/^void rijndaelDecrypt(const u32 rk[\/*4*(Nr + 1)*\/], int Nr, const u8 ct[16], u8 pt[16]) {$/;"	f	typeref:typename:void
+rijndaelDecryptRound	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-alg-fst.c	/^void rijndaelDecryptRound(const u32 rk[\/*4*(Nr + 1)*\/], int Nr, u8 block[16], int rounds) {$/;"	f	typeref:typename:void
+rijndaelECB_MCT	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-test-fst.c	/^static void rijndaelECB_MCT(FILE *fp, int keyLength, BYTE direction) {$/;"	f	typeref:typename:void	file:
+rijndaelEncrypt	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-alg-fst.c	/^void rijndaelEncrypt(const u32 rk[\/*4*(Nr + 1)*\/], int Nr, const u8 pt[16], u8 ct[16]) {$/;"	f	typeref:typename:void
+rijndaelEncryptRound	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-alg-fst.c	/^void rijndaelEncryptRound(const u32 rk[\/*4*(Nr + 1)*\/], int Nr, u8 block[16], int rounds) {$/;"	f	typeref:typename:void
+rijndaelIVKAT	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-test-fst.c	/^static void rijndaelIVKAT (FILE *fp, int keyLength) {$/;"	f	typeref:typename:void	file:
+rijndaelKeySetupDec	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-alg-fst.c	/^int rijndaelKeySetupDec(u32 rk[\/*4*(Nr + 1)*\/], const u8 cipherKey[], int keyBits) {$/;"	f	typeref:typename:int
+rijndaelKeySetupEnc	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-alg-fst.c	/^int rijndaelKeySetupEnc(u32 rk[\/*4*(Nr + 1)*\/], const u8 cipherKey[], int keyBits) {$/;"	f	typeref:typename:int
+rijndaelSpeed	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-test-fst.c	/^void rijndaelSpeed(int keyBits) {$/;"	f	typeref:typename:void
+rijndaelTKAT	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-test-fst.c	/^static void rijndaelTKAT(FILE *fp, int keyLength, FILE *in) {$/;"	f	typeref:typename:void	file:
+rijndaelVKKAT	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-test-fst.c	/^static void rijndaelVKKAT(FILE *fp, int keyLength) {$/;"	f	typeref:typename:void	file:
+rijndaelVTKAT	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-test-fst.c	/^static void rijndaelVTKAT(FILE *fp, int keyLength) {$/;"	f	typeref:typename:void	file:
+rijndael_c	Reverse-opensoooooource/answer/test.py	/^rijndael_c = aes.encrypt(m)$/;"	v
+rk	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-api-fst.h	/^	u32   rk[4*(MAXNR + 1)];        \/* key schedule *\/$/;"	m	struct:__anon2bb9e0dd0108	typeref:typename:u32[]
+rrr	Reverse-opensoooooource/answer/test.py	/^rrr = flag[tmp:tmp+size_r]$/;"	v
+runpy	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="runpy"><\/a>$/;"	a
+s	Crypto-babyFibo/ans/get.py	/^s = 43466557686937456435688527675040625802564660517371780402481729089536555417949051890403879840/;"	v
+s	Crypto-babyFibo/release/fibo.py	/^s = fibo(1000)$/;"	v
+s	Reverse-baigeiXor/answer/exp.py	/^s = []$/;"	v
+s	Reverse-baigeiXor/coding/test.py	/^s = [0, 0, 0]$/;"	v
+s	Reverse-opensoooooource/answer/test.py	/^s = '-' + '-'.join(list(SECRET))$/;"	v
+s	Reverse-祖传maze/answer/exp.py	/^s = b"ljjjlljjljjljllklkklkkhhhhjjjjjjlllljjjjlljjljljlll"$/;"	v
+s	Reverse-祖传maze/coding/test.py	/^    s = ""$/;"	v
+sbox	Crypto-BabyDiff/problem/game.py	/^    def sbox(self, state):$/;"	m	class:DiffGame
+sbox	Crypto-BabyDiff/wp/game.py	/^    def sbox(self, state):$/;"	m	class:DiffGame
+score	Reverse-2^11/coding/2^11.c	/^int m[36] = { 0 }, score = 0, can = 0, air = 16, c = 0, i = 6, j, *p;$/;"	v	typeref:typename:int[36]
+secret	Reverse-2^11/coding/2^11.c	/^void secret() {$/;"	f	typeref:typename:void
+secret	Reverse-AstarEstarS/answer/exp.py	/^secret = "Tover"$/;"	v
+secret	Reverse-AstarEstarS/coding/test.py	/^secret = b"Tover"$/;"	v
+secrets	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="secrets"><\/a>$/;"	a
+select	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="select"><\/a>$/;"	a
+selectors	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="selectors"><\/a>$/;"	a
+shlex	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="shlex"><\/a>$/;"	a
+shutil	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="shutil"><\/a>$/;"	a
+signal	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="signal"><\/a>$/;"	a
+size	Crypto-baigeiRSA/release/baigei.py	/^size = 128$/;"	v
+size	Crypto-baigeiRSA2/release/baigei2.py	/^size = 64$/;"	v
+size_e	Reverse-opensoooooource/answer/test.py	/^size_e = 16$/;"	v
+size_o	Reverse-opensoooooource/answer/test.py	/^size_o = 4$/;"	v
+size_r	Reverse-opensoooooource/answer/test.py	/^size_r = 16$/;"	v
+size_t	Reverse-opensoooooource/answer/test.py	/^size_t = 2$/;"	v
+size_v	Reverse-opensoooooource/answer/test.py	/^size_v = 8$/;"	v
+sk	Reverse-opensoooooource/answer/Okamoto.py	/^    pk, sk = gen()$/;"	v
+sk	Reverse-opensoooooource/answer/test.py	/^sk = (121780973396586410753681883460229986502877791409995215791651059159107956764569371268483256/;"	v
+socket	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="socket"><\/a>$/;"	a
+socketserver	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="socketserver"><\/a>$/;"	a
+sre_compile	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="sre_compile"><\/a>$/;"	a
+sre_constants	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="sre_constants"><\/a>$/;"	a
+sre_parse	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="sre_parse"><\/a>$/;"	a
+ssl	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="ssl"><\/a>$/;"	a
+start	Reverse-祖传maze/coding/maze.c	/^int start[6][2] = {{0, 0}, {2, 1}, {1, 0}, {1, 6}, {1, 2}, {-1, -1}};$/;"	v	typeref:typename:int[6][2]
+stat	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="stat"><\/a>$/;"	a
+string	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="string"><\/a>$/;"	a
+stringprep	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="stringprep"><\/a>$/;"	a
+struct	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="struct"><\/a>$/;"	a
+subprocess	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="subprocess"><\/a>$/;"	a
+sys	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="sys"><\/a>$/;"	a
+sysconfig	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="sysconfig"><\/a>$/;"	a
+tarfile	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="tarfile"><\/a>$/;"	a
+tempfile	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="tempfile"><\/a>$/;"	a
+termios	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="termios"><\/a>$/;"	a
+text	Reverse-AstarEstarS/coding/rijndael-fst-3.0/AstarEstarS.c	/^    char text[64];$/;"	m	struct:__anon1279b2bb0108	typeref:typename:char[64]	file:
+textInstance	Reverse-AstarEstarS/coding/rijndael-fst-3.0/AstarEstarS.c	/^} textInstance;$/;"	t	typeref:struct:__anon1279b2bb0108	file:
+textwrap	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="textwrap"><\/a>$/;"	a
+threading	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="threading"><\/a>$/;"	a
+time	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="time"><\/a>$/;"	a
+tmp	Reverse-opensoooooource/answer/test.py	/^tmp = 0$/;"	v
+toMorse	Reverse-FMC_py/answer/FMC.py	/^    def toMorse(self, src: str) -> str:$/;"	m	class:FMC
+toMorse	Reverse-FMC_py/coding/FMC.py	/^    def toMorse(self, src: str) -> str:$/;"	m	class:FMC
+token	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="token"><\/a>$/;"	a
+tokenize	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="tokenize"><\/a>$/;"	a
+total	Reverse-opensoooooource/answer/test.py	/^total = c_uint32(0)$/;"	v
+total	Reverse-opensoooooource/answer/test.py	/^total = c_uint32(delta * 32)$/;"	v
+traceback	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="traceback"><\/a>$/;"	a
+tracemalloc	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="tracemalloc"><\/a>$/;"	a
+ttt	Reverse-opensoooooource/answer/test.py	/^ttt = flag[tmp:tmp+size_t]$/;"	v
+tty	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="tty"><\/a>$/;"	a
+types	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="types"><\/a>$/;"	a
+typing	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="typing"><\/a>$/;"	a
+u16	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-alg-fst.h	/^typedef unsigned short	u16;	$/;"	t	typeref:typename:unsigned short
+u32	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-alg-fst.h	/^typedef unsigned int	u32;$/;"	t	typeref:typename:unsigned int
+u8	Reverse-AstarEstarS/coding/rijndael-fst-3.0/rijndael-alg-fst.h	/^typedef unsigned char	u8;	$/;"	t	typeref:typename:unsigned char
+unhex	Reverse-AstarEstarS/coding/rijndael-fst-3.0/AstarEstarS.c	/^int unhex(char *hex, BYTE *bin, int hexLen) {$/;"	f	typeref:typename:int
+unhex_sub	Reverse-AstarEstarS/coding/rijndael-fst-3.0/AstarEstarS.c	/^BYTE unhex_sub(char x) {$/;"	f	typeref:typename:BYTE
+unicodedata	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="unicodedata"><\/a>$/;"	a
+uniquename	Reverse-FMC_py/answer/pyinstxtractor.py	/^from uuid import uuid4 as uniquename$/;"	x
+unittest	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="unittest"><\/a>$/;"	a
+unittest.async_case	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="unittest.async_case"><\/a>$/;"	a
+unittest.case	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="unittest.case"><\/a>$/;"	a
+unittest.loader	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="unittest.loader"><\/a>$/;"	a
+unittest.main	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="unittest.main"><\/a>$/;"	a
+unittest.result	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="unittest.result"><\/a>$/;"	a
+unittest.runner	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="unittest.runner"><\/a>$/;"	a
+unittest.signals	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="unittest.signals"><\/a>$/;"	a
+unittest.suite	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="unittest.suite"><\/a>$/;"	a
+unittest.util	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="unittest.util"><\/a>$/;"	a
+urllib	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="urllib"><\/a>$/;"	a
+urllib.error	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="urllib.error"><\/a>$/;"	a
+urllib.parse	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="urllib.parse"><\/a>$/;"	a
+urllib.request	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="urllib.request"><\/a>$/;"	a
+urllib.response	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="urllib.response"><\/a>$/;"	a
+uu	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="uu"><\/a>$/;"	a
+v0	Reverse-opensoooooource/answer/test.py	/^v0 = int.from_bytes(m[:4].encode(), byteorder = 'big')$/;"	v
+v0	Reverse-opensoooooource/answer/test.py	/^v0, v1 = c_uint32(int.from_bytes(c[:4], byteorder = 'little')), c_uint32(int.from_bytes(c[4:], b/;"	v
+v0	Reverse-opensoooooource/answer/test.py	/^v0, v1 = c_uint32(v0), c_uint32(v1)$/;"	v
+v1	Reverse-opensoooooource/answer/test.py	/^v0, v1 = c_uint32(int.from_bytes(c[:4], byteorder = 'little')), c_uint32(int.from_bytes(c[4:], b/;"	v
+v1	Reverse-opensoooooource/answer/test.py	/^v0, v1 = c_uint32(v0), c_uint32(v1)$/;"	v
+v1	Reverse-opensoooooource/answer/test.py	/^v1 = int.from_bytes(m[4:].encode(), byteorder = 'big')$/;"	v
+v4	Reverse-2^11/answer/exp.py	/^v4 = "H4ve_fun_w1th_R3verse_my_friend~"$/;"	v
+vms_lib	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="vms_lib"><\/a>$/;"	a
+vvv	Reverse-opensoooooource/answer/test.py	/^vvv = flag[tmp:tmp+size_v]$/;"	v
+warnings	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="warnings"><\/a>$/;"	a
+wav	Misc-phone_call/ans/gen.py	/^import scipy.io.wavfile as wav$/;"	I
+weakref	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="weakref"><\/a>$/;"	a
+webbrowser	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="webbrowser"><\/a>$/;"	a
+winreg	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="winreg"><\/a>$/;"	a
+wrong	Reverse-opensoooooource/opensoooooource.py	/^def wrong():$/;"	f
+x	Reverse-祖传maze/coding/maze.c	/^int x = 0, y = 0;$/;"	v	typeref:typename:int
+x0	Crypto-Equation/release/equation.py	/^x0 = libnum.s2n(flag[0][:len(flag[0])\/\/2])$/;"	v
+x1	Crypto-Equation/release/equation.py	/^x1 = libnum.s2n(flag[1][:len(flag[1])\/\/2])$/;"	v
+x2	Crypto-Equation/release/equation.py	/^x2 = libnum.s2n(flag[2][:len(flag[2])\/\/2])$/;"	v
+xml	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="xml"><\/a>$/;"	a
+xml.etree	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="xml.etree"><\/a>$/;"	a
+xml.etree.ElementInclude	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="xml.etree.ElementInclude"><\/a>$/;"	a
+xml.etree.ElementPath	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="xml.etree.ElementPath"><\/a>$/;"	a
+xml.etree.ElementTree	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="xml.etree.ElementTree"><\/a>$/;"	a
+xml.etree.cElementTree	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="xml.etree.cElementTree"><\/a>$/;"	a
+xml.parsers	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="xml.parsers"><\/a>$/;"	a
+xml.parsers.expat	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="xml.parsers.expat"><\/a>$/;"	a
+xml.sax	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="xml.sax"><\/a>$/;"	a
+xml.sax._exceptions	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="xml.sax._exceptions"><\/a>$/;"	a
+xml.sax.expatreader	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="xml.sax.expatreader"><\/a>$/;"	a
+xml.sax.handler	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="xml.sax.handler"><\/a>$/;"	a
+xml.sax.saxutils	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="xml.sax.saxutils"><\/a>$/;"	a
+xml.sax.xmlreader	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="xml.sax.xmlreader"><\/a>$/;"	a
+xmlrpc	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="xmlrpc"><\/a>$/;"	a
+xmlrpc.client	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="xmlrpc.client"><\/a>$/;"	a
+y	Reverse-祖传maze/coding/maze.c	/^int x = 0, y = 0;$/;"	v	typeref:typename:int
+y0	Crypto-Equation/release/equation.py	/^y0 = libnum.s2n(flag[0][len(flag[0])\/\/2:])$/;"	v
+y1	Crypto-Equation/release/equation.py	/^y1 = libnum.s2n(flag[1][len(flag[1])\/\/2:])$/;"	v
+y2	Crypto-Equation/release/equation.py	/^y2 = libnum.s2n(flag[2][len(flag[2])\/\/2:])$/;"	v
+zipfile	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="zipfile"><\/a>$/;"	a
+zipimport	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="zipimport"><\/a>$/;"	a
+zlib	Reverse-FMC_py/coding/build/FMC/xref-FMC.html	/^  <a name="zlib"><\/a>$/;"	a
+一个小彩蛋！	Misc-一个小彩蛋！/README.md	/^# 一个小彩蛋！$/;"	c
+介绍	README.md	/^## 介绍$/;"	s
+做题	Crypto-BabyDiff/wp/README.md	/^## 做题$/;"	s
+开始解题	Crypto-泄露了但没完全泄露/wp/README.md	/^## 开始解题$/;"	s
+开源协议	README.md	/^## 开源协议$/;"	s
+我的新门锁密码	Crypto-我的新门锁密码/README.md	/^## 我的新门锁密码$/;"	s
+既见未来，为何不buy	Misc-既见未来，为何不buy/README.md	/^# 既见未来，为何不buy$/;"	c
+泄露了但没完全泄露	Crypto-泄露了但没完全泄露/README.md	/^## 泄露了但没完全泄露$/;"	s
+理解题目	Crypto-泄露了但没完全泄露/wp/README.md	/^## 理解题目$/;"	s
+祖传Bytecode	Reverse-祖传Bytecode/README.md	/^# 祖传Bytecode$/;"	c
+祖传maze	Reverse-祖传maze/README.md	/^# 祖传maze$/;"	c
+解题过程	Web-ezphp/readme.md	/^## 解题过程$/;"	s
+读题	Crypto-BabyDiff/wp/README.md	/^## 读题$/;"	s
+运行题目代码	Crypto-泄露了但没完全泄露/wp/README.md	/^## 运行题目代码$/;"	s
+题目描述	Misc-B45364/README.md	/^## 题目描述$/;"	s
+题目描述	Misc-SignIn/README.md	/^## 题目描述$/;"	s
+题目描述	Misc-guessTHEsong/README.md	/^## 题目描述$/;"	s
+题目描述	Misc-一个小彩蛋！/README.md	/^## 题目描述$/;"	s
+题目描述	Misc-既见未来，为何不buy/README.md	/^## 题目描述$/;"	s
+题目描述	Misc-鸠 打 电 话/README.md	/^## 题目描述$/;"	s
+题目描述	Reverse-2^11/README.md	/^## 题目描述$/;"	s
+题目描述	Reverse-AstarEstarS/README.md	/^## 题目描述$/;"	s
+题目描述	Reverse-FMC_py/README.md	/^## 题目描述$/;"	s
+题目描述	Reverse-Fighting/README.md	/^## 题目描述$/;"	s
+题目描述	Reverse-Splashes!!!/README.md	/^## 题目描述$/;"	s
+题目描述	Reverse-baigeiXor/README.md	/^## 题目描述$/;"	s
+题目描述	Reverse-opensoooooource/README.md	/^## 题目描述$/;"	s
+题目描述	Reverse-祖传Bytecode/README.md	/^## 题目描述$/;"	s
+题目描述	Reverse-祖传maze/README.md	/^## 题目描述$/;"	s
+题目文件	Misc-B45364/README.md	/^## 题目文件$/;"	s
+题目文件	Misc-SignIn/README.md	/^## 题目文件$/;"	s
+题目文件	Misc-guessTHEsong/README.md	/^## 题目文件$/;"	s
+题目文件	Misc-一个小彩蛋！/README.md	/^## 题目文件$/;"	s
+题目文件	Misc-既见未来，为何不buy/README.md	/^## 题目文件$/;"	s
+题目文件	Misc-鸠 打 电 话/README.md	/^## 题目文件$/;"	s
+题目文件	Reverse-2^11/README.md	/^## 题目文件$/;"	s
+题目文件	Reverse-AstarEstarS/README.md	/^## 题目文件$/;"	s
+题目文件	Reverse-FMC_py/README.md	/^## 题目文件$/;"	s
+题目文件	Reverse-Fighting/README.md	/^## 题目文件$/;"	s
+题目文件	Reverse-Splashes!!!/README.md	/^## 题目文件$/;"	s
+题目文件	Reverse-baigeiXor/README.md	/^## 题目文件$/;"	s
+题目文件	Reverse-opensoooooource/README.md	/^## 题目文件$/;"	s
+题目文件	Reverse-祖传Bytecode/README.md	/^## 题目文件$/;"	s
+题目文件	Reverse-祖传maze/README.md	/^## 题目文件$/;"	s
+题目源码	Web-ezphp/readme.md	/^## 题目源码$/;"	s
+鸠 打 电 话	Misc-鸠 打 电 话/README.md	/^# 鸠 打 电 话$/;"	c
